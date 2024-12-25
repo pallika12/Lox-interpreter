@@ -1,0 +1,10 @@
+print("hi " + read);
+var y = read;
+var m = "attaching";
+var gap = " ";
+var times = 10;
+while (times > 0){
+    y = y + gap + m;
+    times = times -1;
+}
+print(y);

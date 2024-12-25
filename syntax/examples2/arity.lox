@@ -1,0 +1,1 @@
+print(substring("string", 1));

@@ -1,0 +1,3 @@
+loop (s in "matt"){
+    print(s);
+}
